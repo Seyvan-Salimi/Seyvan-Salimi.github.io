@@ -1,9 +1,0 @@
----
-listing:
-  contents: 
-    - "2025-1-PhD Project/*.qmd"
-  type: default # Explore more listing types; default, grid or table
-  sort: date desc
-  filter-ui: true
-link-external-newwindow: true
----
